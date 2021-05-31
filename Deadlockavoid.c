@@ -1,3 +1,4 @@
+//Bankers agorithm
 #include<stdio.h>
 int main()
 {
